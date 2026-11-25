@@ -1,4 +1,4 @@
-# 🐍 Snake.io Multiplayer 2D
+# 🐍Óia a cobra🐍 Multiplayer
 
 Jogo multiplayer 2D em tempo real inspirado no clássico **Snake.io**, desenvolvido com **HTML5 Canvas**, **CSS3**, **JavaScript** no front-end e **Node.js**, **Express** e **Socket.io** no back-end para comunicação bidirecional de baixa latência.
 
