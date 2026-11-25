@@ -50,8 +50,8 @@ game-multiplayer/
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/snake-io-multiplayer.git
-   cd snake-io-multiplayer
+   git clone [https://github.com/Igor-Rafael-Silva/Desenvolvimento-com-Socket.io].git
+   cd Desenvolvimento-com-Socket.io
    ```
 
 2. **Instale as dependências:**
